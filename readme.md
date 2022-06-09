@@ -1,6 +1,6 @@
 # Dictionary of conference & journal
 
-<pre><code>Dictionary.jsond
+<pre><code>Dictionary.json
 {
     verb1:{
            phrase1:{
