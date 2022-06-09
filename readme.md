@@ -1,4 +1,4 @@
-# Dictionary of comference & journal
+# Dictionary of conference & journal
 
 <pre><code>Dictionary.jsond
 {
